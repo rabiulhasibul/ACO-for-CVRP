@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452220953 source:e:\thesis\newtast\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+
